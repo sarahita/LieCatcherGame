@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B0304304-15E0-CA21-DE84-26886029FD52}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/start_game.cs">
+    <Files>
+      <File FileName="Assets/scripts/load_everything.cs" Line="51" Column="1" />
+      <File FileName="Assets/scripts/start_game.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LieCatcherRelease" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="start_game.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbb00ac2-404b-45d1-a7c5-210af6c8b3bb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sil2117/workspace/trust/mturk/LieCatcherRelease/Assets/scripts/load_everything.cs" relfile="Assets/scripts/load_everything.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
