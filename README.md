@@ -9,7 +9,7 @@ The game design and deception perception experiments that were conducted with th
 
 ### Audio
 
-* Sample audio clips from the CXD corpus is provided in Assets/Resources. There are 3 sets of audio provided -- 1, 2, 3 -- each with 13 audio segments.  Each gameplay selects a random set of audio to use for the game. 
+* Sample audio clips from the CXD corpus are provided in Assets/Resources. There are 3 sets of audio provided -- 1, 2, 3 -- each with 13 audio segments.  Each gameplay selects a random set of audio to use for the game. 
 * These folders can be replaced with your own audio.  numberFiles and numFolders are set in Assets/scripts/data.cs
 
 
