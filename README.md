@@ -3,6 +3,7 @@ Repository for the LieCatcher game, written in Unity.
 
 ### Reference
 The game design and deception perception experiments that were conducted with this game are described in:
+
  Xi (Leslie) Chen, Sarah Ita Levitan, Michelle Levine, Marko Mandic \& Julia Hirschberg, "Acoustic-Prosodic and Lexical Cues to Deception and Trust: Deciphering How People Detect Lies", Transactions of the Association for Computational Linguistics (TACL), 2020. 
 
 
